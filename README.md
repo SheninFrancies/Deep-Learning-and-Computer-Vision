@@ -4,7 +4,7 @@ Exploring the exciting field of Computer Vision via OpenCV and enhancing knowled
 Certain projects have been deployed using Streamlit, which can be viewed in the repository dedicated to Streamlit.
 
 ## Key Project
-    - Evaluating the Performance of a custom-trained Model used for the detection of Surgical Instruments in Operation Theatres: [Go to Code](https://github.com/SheninFrancies/Deep-Learning-and-Computer-Vision/tree/main/Computer%20Vision/Projects/Surgical%20Instruments%20Detection%20-%20YOLOv8) | [Watch Demo](https://www.linkedin.com/posts/shenin-francies_yolov8-computervision-healthcaretechnology-activity-7046398445917515776-gmBZ?utm_source=share&utm_medium=member_desktop) | [Read the Article on Performance Evaluation](https://medium.com/@sheninfrancis23/evaluating-the-performance-of-a-custom-trained-model-to-detect-surgical-instruments-using-yolov8-f33fc737cea9)
+ - Evaluating the Performance of a custom-trained Model used for the detection of Surgical Instruments in Operation Theatres: [Go to Code](https://github.com/SheninFrancies/Deep-Learning-and-Computer-Vision/tree/main/Computer%20Vision/Projects/Surgical%20Instruments%20Detection%20-%20YOLOv8) | [Watch Demo](https://www.linkedin.com/posts/shenin-francies_yolov8-computervision-healthcaretechnology-activity-7046398445917515776-gmBZ?utm_source=share&utm_medium=member_desktop) | [Read the Article on Performance Evaluation](https://medium.com/@sheninfrancis23/evaluating-the-performance-of-a-custom-trained-model-to-detect-surgical-instruments-using-yolov8-f33fc737cea9)
 
 ## Milestone Projects
 1. OpenCV & MediaPipe
