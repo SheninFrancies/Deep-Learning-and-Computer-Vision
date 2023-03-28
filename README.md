@@ -14,4 +14,13 @@ Certain projects have been deployed using Streamlit, which can be viewed in the 
     - Personal Protection Equipment Detection: [Go to Code](https://github.com/SheninFrancies/Deep-Learning-and-Computer-Vision/tree/main/Computer%20Vision/Projects/Personal%20Protection%20Equipment%20Detection%20-%20YOLOv8) | [Watch Demo](https://www.linkedin.com/posts/shenin-francies_constructionindustry-yolov8-computervision-activity-7044624695274475520-Pt3y?utm_source=share&utm_medium=member_desktop)
     - Evaluating the Performance of Counting Cars using Intersection-Over-Union: [Go to Code](https://github.com/SheninFrancies/Deep-Learning-and-Computer-Vision/tree/main/Computer%20Vision/Projects/Car%20Counter%20-%20YOLOv8) | [Watch Demo](https://www.linkedin.com/posts/shenin-francies_yolov8-objectdetection-performancemetrics-activity-7044309323270823936-k4wo?utm_source=share&utm_medium=member_desktop)
     - People Counter: [Go to Code](https://github.com/SheninFrancies/Deep-Learning-and-Computer-Vision/tree/main/Computer%20Vision/Projects/People%20Counter%20-%20YOLOv8)
-    
+
+## Mini-Projects
+1. MediaPipe & OpenCV
+   - [Fitness Tracker using Pose Detection](https://github.com/SheninFrancies/Deep-Learning-and-Computer-Vision/tree/main/Computer%20Vision/Mini%20Projects/Fitness%20Tracker)
+   - [Virtual Keyboard](https://github.com/SheninFrancies/Deep-Learning-and-Computer-Vision/tree/main/Computer%20Vision/Mini%20Projects/Virtual%20Keyboard) | [Virtual Painter](https://github.com/SheninFrancies/Deep-Learning-and-Computer-Vision/tree/main/Computer%20Vision/Mini%20Projects/Virtual%20Painter)
+2. Experiments on Computer Vision using Haar Cascades: [Basic Mini-Projects](https://github.com/SheninFrancies/Deep-Learning-and-Computer-Vision/tree/main/Computer%20Vision/Mini%20Projects)
+
+## Deep Learning
+   - [Multilayer Perceptron on Chronic Kidney Disease](https://github.com/SheninFrancies/Deep-Learning-and-Computer-Vision/tree/main/Deep%20Learning/Chronic%20Kidney%20Disease)
+   - [Introductory Project: CIFAR & MNIST](https://github.com/SheninFrancies/Deep-Learning-and-Computer-Vision/tree/main/Deep%20Learning/Introductory%20Mini-Projects)
